@@ -54,13 +54,13 @@ Drive Wise is designed with a strong commitment to user privacy and platform com
 ## 🎬 Preview
 
 <p align="center">
-  <img src=".github/assets/demo1.gif" width="45%"/>
-  <img src=".github/assets/demo2.gif" width="45%"/>
+  <img src="../assets/demo1.gif" width="45%"/>
+  <img src="../assets/demo2.gif" width="45%"/>
 </p>
 
 ## 🎥 Full Demo
 
-[![Watch Demo](https://img.youtube.com/vi/8Y1UEWyyBTM/0.jpg)](https://www.youtube.com/watch?v=8Y1UEWyyBTM)
+[Watch Demo](https://www.youtube.com/watch?v=8Y1UEWyyBTM)
 
 ---
 
@@ -72,4 +72,4 @@ Developed by [Hazem Amer](https://github.com/Hazem-Amer)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](.github/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
