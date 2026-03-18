@@ -51,7 +51,14 @@ Drive Wise is designed with a strong commitment to user privacy and platform com
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Preview
+
+<p align="center">
+  <img src="assets/demo1.gif" width="45%"/>
+  <img src="assets/demo2.gif" width="45%"/>
+</p>
+
+## 🎥 Full Demo
 
 [![Watch Demo](https://img.youtube.com/vi/8Y1UEWyyBTM/0.jpg)](https://www.youtube.com/watch?v=8Y1UEWyyBTM)
 
