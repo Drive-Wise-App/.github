@@ -4,6 +4,15 @@ Drive Wise is an intelligent driver assistant that empowers ride-sharing drivers
 
 ---
 
+## 🎬 Preview
+
+<p align="center">
+  <img src="../assets/demo1.gif" width="45%"/>
+  <img src="../assets/demo2.gif" width="45%"/>
+</p>
+
+---
+
 ## Features
 
 - Smart ride filtering
@@ -50,13 +59,6 @@ Drive Wise is designed with a strong commitment to user privacy and platform com
 - The app focuses on improving decision-making while respecting fair usage and ecosystem integrity.
 
 ---
-
-## 🎬 Preview
-
-<p align="center">
-  <img src="../assets/demo1.gif" width="45%"/>
-  <img src="../assets/demo2.gif" width="45%"/>
-</p>
 
 ## 🎥 Full Demo
 
