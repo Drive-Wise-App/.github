@@ -1,6 +1,6 @@
 # Drive Wise
 
-Drive Wise is an intelligent driver assistant application designed to help drivers make smarter decisions by analyzing ride offers and optimizing earnings.
+Drive Wise is an intelligent driver assistant that empowers ride-sharing drivers (e.g., Uber, Careem, Bolt) to make smarter decisions through real-time ride analysis and earnings optimization.
 
 ---
 
