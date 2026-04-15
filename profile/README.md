@@ -41,8 +41,8 @@ Drive Wise is an intelligent driver assistant that empowers ride-sharing drivers
 Drive Wise is designed with a strong commitment to user privacy and platform compliance.
 
 ### 📊 Data Privacy
-- Drive Wise does **not collect, store, or share any personal user data** without explicit consent.
-- Any data processed (e.g., ride information) is handled **locally on the device** whenever possible.
+- Drive Wise does **not collect, store, or share any personal user data**.
+- Any data processed (e.g., ride information) is handled **locally on the device**.
 - No information is transmitted to external servers.
 
 ### ⚖️ Platform Usage Disclaimer
